@@ -1,6 +1,6 @@
 # Donald Trump Browser
 
-![app preview](https://i.imgur.com/GLqXzpk.jpg)
+![app preview](https://i.imgur.com/EDp6bwC.jpg)
 
 A browser that goes crazy when you surf a website containing the text Donald Trump. You get:
 
@@ -15,3 +15,9 @@ If all hell breaks loose, click the GIF to stop.
 APK (for Android devices): https://drive.google.com/file/d/1-kiGkHTo6vBo7XcEICdurdpG_YqXh009/view?usp=sharing
 
 Coming soon for iOS!
+
+## Connect With Me
+
+Add me on LinkedIn:https://www.linkedin.com/in/chrischongyj/
+
+Looking for fellow Flutter software engineers
